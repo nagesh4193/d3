@@ -9,4 +9,4 @@ arch:
   - ppc64le
 
 before_script:
-  - npm install d3
+  - npm install
